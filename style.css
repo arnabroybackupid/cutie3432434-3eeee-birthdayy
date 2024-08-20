@@ -1,0 +1,29 @@
+body {
+    background-image: url('./img/bg.jpeg');
+    background-size: cover; /* Optional: adjusts the size of the image */
+    background-position: center; /* Optional: centers the image */
+  }
+
+  h1 {
+    font-size: 60px; /* Adjust the size as needed */
+  }
+  
+  p {
+    font-size: 30px; /* Adjust the size as needed */
+  }
+  
+  h1 {
+    color: #ca4141; /* Use any color code or name */
+  }
+  
+  p {
+    color: rgb(255, 166, 0);
+  }
+
+  h2 {
+    font-size: 39;
+    color: burlywood;
+  }
+  footer{
+    color: yellow;
+  }
